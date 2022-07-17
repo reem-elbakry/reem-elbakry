@@ -1,7 +1,7 @@
 ### Hi there 👋 Reem here!
 
 ✨ I am a full stack web developer.
-
+<img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right'/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript Web Development Technologies.
 - 👯 I’m looking to collaborate on ...
