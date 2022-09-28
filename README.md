@@ -3,9 +3,9 @@
 ✨ I am a full stack web developer.
 <img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right'/>
 - 💯 I have a good knowledge of:<br/>
-   React.js, Redux, Toolkit, Node.js, Mongodb, MySQL, Bootstrap, Tailwind.
+   React.js, Redux, Toolkit, Node.js, Python, Django, Mongodb, MySQL, Postgres, Bootstrap, Tailwind.
 - 🧐 I have a basic knowldege of:<br/>
-   Docker, Git, Linux, Firebase, TypeScript, Angular, Python, Django.
+   Docker, Git, Linux, Firebase, TypeScript, Angular, Go.
 - 📢 Fun fact: I love music, photography and nature.
 - 🦅 How to reach me: 
 <pre>
