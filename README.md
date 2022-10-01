@@ -1,7 +1,7 @@
 ### Hi there 👋 Reem here!
 
 ✨ I am a full stack web developer.
-<img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right'/>
+<img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right' width='100%'/>
 - 💯 I have a good knowledge of:<br/>
    React.js, Redux, Toolkit, Node.js, Python, Django, Mongodb, MySQL, Postgres, Bootstrap, Tailwind.
 - 🧐 I have a basic knowldege of:<br/>
