@@ -3,9 +3,10 @@
 ✨ I am a Software Developer.
 <img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right' width='30%'/>
 - 💯 I have a good knowledge of:<br/>
-   React.js, Redux, Toolkit, Node.js, Python, Django, Mongodb, MySQL, Postgres, Bootstrap, Tailwind.
+   - Node.js, Express.js Python, Django, Mongodb, MySQL, Postgres,<br/>
+   - React.js, Redux, Toolkit, Bootstrap, Tailwind.
 - 🧐 I have a basic knowldege of:<br/>
-   Docker, Git, Linux, Firebase, TypeScript, Angular, Go.
+   - Linux, Docker, Firebase, TypeScript, GoLang.
 - 📢 Fun fact: I love music, photography and nature.
 - 🦅 How to reach me: 
 <pre>
