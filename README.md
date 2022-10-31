@@ -2,10 +2,10 @@
 
 ✨ I am a Software Developer.
 <img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right' width='30%'/>
-- 💯 I have a good knowledge of:<br/>
-   - Node.js, Express.js Python, Django, Mongodb, MySQL, Postgres,<br/>
+- 💯 I have a good knowledge about:<br/>
+   - Node.js, Express.js, Python, Django, Mongodb, MySQL, Postgres,<br/>
    - React.js, Redux, Toolkit, Bootstrap, Tailwind.
-- 🧐 I have a basic knowldege of:<br/>
+- 🧐 I have a basic knowldege about:<br/>
    - Linux, Docker, Firebase, TypeScript, GoLang.
 - 📢 Fun fact: I love music, photography and nature.
 - 🦅 How to reach me: 
