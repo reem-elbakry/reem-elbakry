@@ -1,7 +1,7 @@
 ### Hi there 👋 Reem here!
 
 ✨ I am a Software Developer.
-<img src="https://c.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif" align='right' width='30%'/>
+<img src="https://4.bp.blogspot.com/-S7mG-rpVn70/XUrQqbGfl1I/AAAAAAA1w1Q/dHmGVFlcEog8fLZYISmfgoNVzlk90w_dwCLcBGAs/s1600/AW3965618_04.gif" align='right' width='30%'/>
 - 💯 I have a good knowledge of:<br/>
    - Node.js, Express.js, Python, Django, Mongodb, MySQL, Postgres,<br/>
    - React.js, Redux, Toolkit, Bootstrap, Tailwind.
